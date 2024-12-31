@@ -53,7 +53,7 @@ def log_activity(action, details):
     })
 
 # Ana başlık
-st.title("🌐 Sosyal Ağ Analizi")
+st.title("🌐 Bir Ümit ALBAYRAK Yapımıdır-Sosyal Ağ Analizi")
 
 # Yan menü
 with st.sidebar:
